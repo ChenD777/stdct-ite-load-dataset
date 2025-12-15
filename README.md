@@ -22,5 +22,4 @@ The dataset is shared as supplementary material to facilitate transparency and r
 - **File format**: CSV
 
 ### File
-```text
 stdct_ite_load_15min_1month.csv
