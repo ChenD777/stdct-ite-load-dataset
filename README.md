@@ -1,9 +1,9 @@
 # STDCT ITE Load Dataset (15-min Resolution)
 
-This repository provides operational data from the STDCT (Smart Tropical Data Center Testbed),
+This repository provides operational data from the STDCT (Sustainable Tropical Data Centre Testbed),
 released to support the following publication:
 
-> **Chen, D., et al.**  
+> **Chen, D., Chui, C.-K., Lee, P. S.**  
 > *Physics-informed machine learning–based predictive control for intelligent operation of edge datacenters*  
 > **Applied Energy**, 2025.  
 > DOI: https://doi.org/10.1016/j.apenergy.2025.126975
