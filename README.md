@@ -30,7 +30,7 @@ sampled at a 15-minute resolution. The horizontal axis represents time in days,
 while the vertical axis shows the corresponding IT equipment load.
 
 <p align="center">
-  <img src="https://github.com/ChenD777/stdct-ite-load-dataset/blob/3469da7e488b0a75dab6485111c7be4ffc03937b/stdct-it-load.png" width="300">
+  <img src="https://github.com/ChenD777/stdct-ite-load-dataset/blob/3469da7e488b0a75dab6485111c7be4ffc03937b/stdct-it-load.png" width="500">
 </p>
 
 ---
