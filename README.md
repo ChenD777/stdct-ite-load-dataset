@@ -30,7 +30,7 @@ sampled at a 15-minute resolution. The horizontal axis represents time in days,
 while the vertical axis shows the corresponding IT equipment load.
 
 <p align="center">
-  <img src="stdct-ite-load.png" width="650">
+  <img src="stdct-ite-load.png" width="300">
 </p>
 
 ---
