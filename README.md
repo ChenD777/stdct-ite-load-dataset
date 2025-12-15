@@ -1,0 +1,26 @@
+# STDCT ITE Load Dataset (15-min Resolution)
+
+This repository provides operational data from the STDCT (Smart Tropical Data Center Testbed),
+released to support the following publication:
+
+> **Chen, D., et al.**  
+> *Physics-informed machine learning–based predictive control for intelligent operation of edge datacenters*  
+> **Applied Energy**, 2025.  
+> DOI: https://doi.org/10.1016/j.apenergy.2025.126975
+
+The dataset is shared as supplementary material to facilitate transparency and reproducibility of the reported results.
+
+---
+
+## Dataset Description
+
+- **System**: Smart Tropical Data Center Testbed (STDCT)
+- **Variable**: IT Equipment (ITE) load
+- **Sampling interval**: 15 minutes
+- **Duration**: 1 month
+- **Total data points**: 2880
+- **File format**: CSV
+
+### File
+```text
+stdct_ite_load_15min_1month.csv
